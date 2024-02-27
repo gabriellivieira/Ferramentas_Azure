@@ -1,0 +1,37 @@
+/* Imagem 01 para descrever*/
+
+// Descrição: A table set for a dinner party
+
+{
+    "apim-request-id": "6fd0366a-adbd-4df8-9339-faa432470412",
+    "content-length": "159",
+    "content-type": "application/json; charset=utf-8",
+    "modelVersion": "2023-10-01",
+    "captionResult": {
+      "text": "a table set for a dinner party",
+      "confidence": 0.7278814911842346
+    },
+    "metadata": {
+      "width": 3648,
+      "height": 5472
+    }
+  }
+
+/* Imagem 02 para descrever */
+
+// Descrição: A car on a gravel road with purple flowers
+
+{
+    "apim-request-id": "f0819287-b3dd-4434-94d9-09ceb221a6ef",
+    "content-length": "171",
+    "content-type": "application/json; charset=utf-8",
+    "modelVersion": "2023-10-01",
+    "captionResult": {
+      "text": "a car on a gravel road with purple flowers",
+      "confidence": 0.7655792236328125
+    },
+    "metadata": {
+      "width": 5472,
+      "height": 3648
+    }
+  }
