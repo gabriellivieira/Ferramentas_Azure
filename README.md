@@ -10,3 +10,6 @@ Na primeira atividade pratica do bootcamp Microsoft Azure AI Fundamentals, foi c
 No segundo laboratório prático, foi trabalhado com os serviços de reconhecimento de imagem, sendo: a Pesquisa visual computacional, OCR e Analise espacial. 
 
 * [Reconhecimento de imagens](/Visao_computacional_reconhecimento%20facial/Reconhecimento_imagem.md)
+
+### Processamento de Linguagem Natural
+
