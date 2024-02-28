@@ -1,0 +1,1668 @@
+// Áudio O que são metas
+
+//Saida em texto
+/* Metas são degrauzinhos de uma escada que vai te chegar até o objetivo final, então é basicamente você pegar esse objetivo grande e difícil, levando o exemplo ali que a gente fez nos objetivos de emagrecimento, pegar esse objetivo que parece surreal, emagrecer 10 kg até em julho. E transformar em coisinhas pequenininhas, ações pequenininhas, netinhas para você fazer todos os dias. */
+
+// código 
+[
+    {
+        "Id": "2669c73e71e84672ba81e75e17aa38fe",
+        "RecognitionStatus": 0,
+        "Offset": 113600000,
+        "Duration": 158800000,
+        "Channel": 0,
+        "DisplayText": "Metas são degrauzinhos de uma escada que vai te chegar até o objetivo final, então é basicamente você pegar esse objetivo grande e difícil, levando o exemplo ali que a gente fez nos objetivos de emagrecimento, pegar esse objetivo que parece surreal, emagrecer 10 kg até em julho.",
+        "NBest": [
+            {
+                "Confidence": 0.86096525,
+                "Lexical": "metas são degrauzinhos de uma escada que vai te chegar até o objetivo final então é basicamente você pegar esse objetivo grande e difícil levando o exemplo ali que a gente fez nos objetivos de emagrecimento pegar esse objetivo que parece surreal emagrecer dez quilos até em julho",
+                "ITN": "metas são degrauzinhos de uma escada que vai te chegar até o objetivo final então é basicamente você pegar esse objetivo grande e difícil levando o exemplo ali que a gente fez nos objetivos de emagrecimento pegar esse objetivo que parece surreal emagrecer 10 kg até em julho",
+                "MaskedITN": "metas são degrauzinhos de uma escada que vai te chegar até o objetivo final então é basicamente você pegar esse objetivo grande e difícil levando o exemplo ali que a gente fez nos objetivos de emagrecimento pegar esse objetivo que parece surreal emagrecer 10 kg até em julho",
+                "Display": "Metas são degrauzinhos de uma escada que vai te chegar até o objetivo final, então é basicamente você pegar esse objetivo grande e difícil, levando o exemplo ali que a gente fez nos objetivos de emagrecimento, pegar esse objetivo que parece surreal, emagrecer 10 kg até em julho.",
+                "Words": [
+                    {
+                        "Word": "metas",
+                        "Offset": 263700000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "são",
+                        "Offset": 268500000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "degrauzinhos",
+                        "Offset": 275700000,
+                        "Duration": 9600000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 285300000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "uma",
+                        "Offset": 286100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "escada",
+                        "Offset": 287700000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 292100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "vai",
+                        "Offset": 293300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "te",
+                        "Offset": 294900000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "chegar",
+                        "Offset": 295700000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "até",
+                        "Offset": 298100000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "o",
+                        "Offset": 300500000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "objetivo",
+                        "Offset": 300900000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "final",
+                        "Offset": 306100000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "então",
+                        "Offset": 314100000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 318100000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "basicamente",
+                        "Offset": 318500000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "você",
+                        "Offset": 324500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "pegar",
+                        "Offset": 326900000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "esse",
+                        "Offset": 329700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "objetivo",
+                        "Offset": 330900000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "grande",
+                        "Offset": 335700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 339700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "difícil",
+                        "Offset": 340900000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "levando",
+                        "Offset": 349700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "o",
+                        "Offset": 353700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "exemplo",
+                        "Offset": 354500000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "ali",
+                        "Offset": 358500000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 360500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 361700000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "gente",
+                        "Offset": 362100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "fez",
+                        "Offset": 363700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "nos",
+                        "Offset": 365700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "objetivos",
+                        "Offset": 366900000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 373700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "emagrecimento",
+                        "Offset": 374500000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "pegar",
+                        "Offset": 385300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "esse",
+                        "Offset": 387700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "objetivo",
+                        "Offset": 388900000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 393300000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "parece",
+                        "Offset": 394100000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "surreal",
+                        "Offset": 397700000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "emagrecer",
+                        "Offset": 403700000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "dez",
+                        "Offset": 408500000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "quilos",
+                        "Offset": 411700000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "até",
+                        "Offset": 415300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "em",
+                        "Offset": 417300000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "julho",
+                        "Offset": 418100000,
+                        "Duration": 4400000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.86096525,
+                "Lexical": "metas são degrauzinhos de uma escada que vai te chegar até o objetivo final então é basicamente você pegar esse objetivo grande e difícil levando o exemplo ali que a gente fez nos objetivos de emagrecimento pegar esse objetivo que parece surreal emagrecer dez quilos até em julho",
+                "ITN": "metas são degrauzinhos de uma escada que vai te chegar até o objetivo final então é basicamente você pegar esse objetivo grande e difícil levando o exemplo ali que a gente fez nos objetivos de emagrecimento pegar esse objetivo que parece surreal emagrecer dez quilos até em julho",
+                "MaskedITN": "metas são degrauzinhos de uma escada que vai te chegar até o objetivo final então é basicamente você pegar esse objetivo grande e difícil levando o exemplo ali que a gente fez nos objetivos de emagrecimento pegar esse objetivo que parece surreal emagrecer dez quilos até em julho",
+                "Display": "metas são degrauzinhos de uma escada que vai te chegar até o objetivo final então é basicamente você pegar esse objetivo grande e difícil levando o exemplo ali que a gente fez nos objetivos de emagrecimento pegar esse objetivo que parece surreal emagrecer dez quilos até em julho",
+                "Words": [
+                    {
+                        "Word": "metas",
+                        "Offset": 263700000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "são",
+                        "Offset": 268500000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "degrauzinhos",
+                        "Offset": 275700000,
+                        "Duration": 9600000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 285300000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "uma",
+                        "Offset": 286100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "escada",
+                        "Offset": 287700000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 292100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "vai",
+                        "Offset": 293300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "te",
+                        "Offset": 294900000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "chegar",
+                        "Offset": 295700000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "até",
+                        "Offset": 298100000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "o",
+                        "Offset": 300500000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "objetivo",
+                        "Offset": 300900000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "final",
+                        "Offset": 306100000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "então",
+                        "Offset": 314100000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 318100000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "basicamente",
+                        "Offset": 318500000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "você",
+                        "Offset": 324500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "pegar",
+                        "Offset": 326900000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "esse",
+                        "Offset": 329700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "objetivo",
+                        "Offset": 330900000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "grande",
+                        "Offset": 335700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 339700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "difícil",
+                        "Offset": 340900000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "levando",
+                        "Offset": 349700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "o",
+                        "Offset": 353700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "exemplo",
+                        "Offset": 354500000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "ali",
+                        "Offset": 358500000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 360500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 361700000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "gente",
+                        "Offset": 362100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "fez",
+                        "Offset": 363700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "nos",
+                        "Offset": 365700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "objetivos",
+                        "Offset": 366900000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 373700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "emagrecimento",
+                        "Offset": 374500000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "pegar",
+                        "Offset": 385300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "esse",
+                        "Offset": 387700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "objetivo",
+                        "Offset": 388900000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 393300000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "parece",
+                        "Offset": 394100000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "surreal",
+                        "Offset": 397700000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "emagrecer",
+                        "Offset": 403700000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "dez",
+                        "Offset": 408500000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "quilos",
+                        "Offset": 411700000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "até",
+                        "Offset": 415300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "em",
+                        "Offset": 417300000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "julho",
+                        "Offset": 418100000,
+                        "Duration": 4400000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.86096525,
+                "Lexical": "metas são degrauzinhos de uma escada que vai te chegar até o objetivo final então é basicamente você pegar esse objetivo grande e difícil levando o exemplo ali que a gente fez nos objetivos de emagrecimento pegar esse objetivo que parece surreal emagrecer dez quilos até em julho",
+                "ITN": "metas são degrauzinhos de uma escada que vai te chegar até o objetivo final então é basicamente você pegar esse objetivo grande e difícil levando o exemplo ali que a gente fez nos objetivos de emagrecimento pegar esse objetivo que parece surreal emagrecer dez quilos até em julho",
+                "MaskedITN": "metas são degrauzinhos de uma escada que vai te chegar até o objetivo final então é basicamente você pegar esse objetivo grande e difícil levando o exemplo ali que a gente fez nos objetivos de emagrecimento pegar esse objetivo que parece surreal emagrecer dez quilos até em julho",
+                "Display": "metas são degrauzinhos de uma escada que vai te chegar até o objetivo final então é basicamente você pegar esse objetivo grande e difícil levando o exemplo ali que a gente fez nos objetivos de emagrecimento pegar esse objetivo que parece surreal emagrecer dez quilos até em julho",
+                "Words": [
+                    {
+                        "Word": "metas",
+                        "Offset": 263700000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "são",
+                        "Offset": 268500000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "degrauzinhos",
+                        "Offset": 275700000,
+                        "Duration": 9600000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 285300000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "uma",
+                        "Offset": 286100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "escada",
+                        "Offset": 287700000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 292100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "vai",
+                        "Offset": 293300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "te",
+                        "Offset": 294900000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "chegar",
+                        "Offset": 295700000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "até",
+                        "Offset": 298100000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "o",
+                        "Offset": 300500000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "objetivo",
+                        "Offset": 300900000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "final",
+                        "Offset": 306100000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "então",
+                        "Offset": 314100000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 318100000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "basicamente",
+                        "Offset": 318500000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "você",
+                        "Offset": 324500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "pegar",
+                        "Offset": 326900000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "esse",
+                        "Offset": 329700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "objetivo",
+                        "Offset": 330900000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "grande",
+                        "Offset": 335700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 339700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "difícil",
+                        "Offset": 340900000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "levando",
+                        "Offset": 349700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "o",
+                        "Offset": 353700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "exemplo",
+                        "Offset": 354500000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "ali",
+                        "Offset": 358500000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 360500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 361700000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "gente",
+                        "Offset": 362100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "fez",
+                        "Offset": 363700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "nos",
+                        "Offset": 365700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "objetivos",
+                        "Offset": 366900000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 373700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "emagrecimento",
+                        "Offset": 374500000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "pegar",
+                        "Offset": 385300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "esse",
+                        "Offset": 387700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "objetivo",
+                        "Offset": 388900000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 393300000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "parece",
+                        "Offset": 394100000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "surreal",
+                        "Offset": 397700000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "emagrecer",
+                        "Offset": 403700000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "dez",
+                        "Offset": 408500000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "quilos",
+                        "Offset": 411700000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "até",
+                        "Offset": 415300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "em",
+                        "Offset": 417300000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "julho",
+                        "Offset": 418100000,
+                        "Duration": 4400000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.86096525,
+                "Lexical": "metas são degrauzinhos de uma escada que vai te chegar até o objetivo final então é basicamente você pegar esse objetivo grande e difícil levando o exemplo ali que a gente fez nos objetivos de emagrecimento pegar esse objetivo que parece surreal emagrecer dez quilos até em julho",
+                "ITN": "metas são degrauzinhos de uma escada que vai te chegar até o objetivo final então é basicamente você pegar esse objetivo grande e difícil levando o exemplo ali que a gente fez nos objetivos de emagrecimento pegar esse objetivo que parece surreal emagrecer dez quilos até em julho",
+                "MaskedITN": "metas são degrauzinhos de uma escada que vai te chegar até o objetivo final então é basicamente você pegar esse objetivo grande e difícil levando o exemplo ali que a gente fez nos objetivos de emagrecimento pegar esse objetivo que parece surreal emagrecer dez quilos até em julho",
+                "Display": "metas são degrauzinhos de uma escada que vai te chegar até o objetivo final então é basicamente você pegar esse objetivo grande e difícil levando o exemplo ali que a gente fez nos objetivos de emagrecimento pegar esse objetivo que parece surreal emagrecer dez quilos até em julho",
+                "Words": [
+                    {
+                        "Word": "metas",
+                        "Offset": 263700000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "são",
+                        "Offset": 268500000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "degrauzinhos",
+                        "Offset": 275700000,
+                        "Duration": 9600000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 285300000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "uma",
+                        "Offset": 286100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "escada",
+                        "Offset": 287700000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 292100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "vai",
+                        "Offset": 293300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "te",
+                        "Offset": 294900000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "chegar",
+                        "Offset": 295700000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "até",
+                        "Offset": 298100000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "o",
+                        "Offset": 300500000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "objetivo",
+                        "Offset": 300900000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "final",
+                        "Offset": 306100000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "então",
+                        "Offset": 314100000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 318100000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "basicamente",
+                        "Offset": 318500000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "você",
+                        "Offset": 324500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "pegar",
+                        "Offset": 326900000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "esse",
+                        "Offset": 329700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "objetivo",
+                        "Offset": 330900000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "grande",
+                        "Offset": 335700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 339700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "difícil",
+                        "Offset": 340900000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "levando",
+                        "Offset": 349700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "o",
+                        "Offset": 353700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "exemplo",
+                        "Offset": 354500000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "ali",
+                        "Offset": 358500000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 360500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 361700000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "gente",
+                        "Offset": 362100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "fez",
+                        "Offset": 363700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "nos",
+                        "Offset": 365700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "objetivos",
+                        "Offset": 366900000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 373700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "emagrecimento",
+                        "Offset": 374500000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "pegar",
+                        "Offset": 385300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "esse",
+                        "Offset": 387700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "objetivo",
+                        "Offset": 388900000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 393300000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "parece",
+                        "Offset": 394100000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "surreal",
+                        "Offset": 397700000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "emagrecer",
+                        "Offset": 403700000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "dez",
+                        "Offset": 408500000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "quilos",
+                        "Offset": 411700000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "até",
+                        "Offset": 415300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "em",
+                        "Offset": 417300000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "julho",
+                        "Offset": 418100000,
+                        "Duration": 4400000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.86096525,
+                "Lexical": "metas são degrauzinhos de uma escada que vai te chegar até o objetivo final então é basicamente você pegar esse objetivo grande e difícil levando o exemplo ali que a gente fez nos objetivos de emagrecimento pegar esse objetivo que parece surreal emagrecer dez quilos até em julho",
+                "ITN": "metas são degrauzinhos de uma escada que vai te chegar até o objetivo final então é basicamente você pegar esse objetivo grande e difícil levando o exemplo ali que a gente fez nos objetivos de emagrecimento pegar esse objetivo que parece surreal emagrecer dez quilos até em julho",
+                "MaskedITN": "metas são degrauzinhos de uma escada que vai te chegar até o objetivo final então é basicamente você pegar esse objetivo grande e difícil levando o exemplo ali que a gente fez nos objetivos de emagrecimento pegar esse objetivo que parece surreal emagrecer dez quilos até em julho",
+                "Display": "metas são degrauzinhos de uma escada que vai te chegar até o objetivo final então é basicamente você pegar esse objetivo grande e difícil levando o exemplo ali que a gente fez nos objetivos de emagrecimento pegar esse objetivo que parece surreal emagrecer dez quilos até em julho",
+                "Words": [
+                    {
+                        "Word": "metas",
+                        "Offset": 263700000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "são",
+                        "Offset": 268500000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "degrauzinhos",
+                        "Offset": 275700000,
+                        "Duration": 9600000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 285300000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "uma",
+                        "Offset": 286100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "escada",
+                        "Offset": 287700000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 292100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "vai",
+                        "Offset": 293300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "te",
+                        "Offset": 294900000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "chegar",
+                        "Offset": 295700000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "até",
+                        "Offset": 298100000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "o",
+                        "Offset": 300500000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "objetivo",
+                        "Offset": 300900000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "final",
+                        "Offset": 306100000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "então",
+                        "Offset": 314100000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 318100000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "basicamente",
+                        "Offset": 318500000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "você",
+                        "Offset": 324500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "pegar",
+                        "Offset": 326900000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "esse",
+                        "Offset": 329700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "objetivo",
+                        "Offset": 330900000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "grande",
+                        "Offset": 335700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 339700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "difícil",
+                        "Offset": 340900000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "levando",
+                        "Offset": 349700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "o",
+                        "Offset": 353700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "exemplo",
+                        "Offset": 354500000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "ali",
+                        "Offset": 358500000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 360500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 361700000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "gente",
+                        "Offset": 362100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "fez",
+                        "Offset": 363700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "nos",
+                        "Offset": 365700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "objetivos",
+                        "Offset": 366900000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 373700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "emagrecimento",
+                        "Offset": 374500000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "pegar",
+                        "Offset": 385300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "esse",
+                        "Offset": 387700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "objetivo",
+                        "Offset": 388900000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 393300000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "parece",
+                        "Offset": 394100000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "surreal",
+                        "Offset": 397700000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "emagrecer",
+                        "Offset": 403700000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "dez",
+                        "Offset": 408500000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "quilos",
+                        "Offset": 411700000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "até",
+                        "Offset": 415300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "em",
+                        "Offset": 417300000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "julho",
+                        "Offset": 418100000,
+                        "Duration": 4400000
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": "e0e6628595664533956d7790d3fbcdd4",
+        "RecognitionStatus": 0,
+        "Offset": 281900000,
+        "Duration": 58400000,
+        "Channel": 0,
+        "DisplayText": "E transformar em coisinhas pequenininhas, ações pequenininhas, netinhas para você fazer todos os dias.",
+        "NBest": [
+            {
+                "Confidence": 0.8578301,
+                "Lexical": "e transformar em coisinhas pequenininhas ações pequenininhas netinhas para você fazer todos os dias",
+                "ITN": "e transformar em coisinhas pequenininhas ações pequenininhas netinhas para você fazer todos os dias",
+                "MaskedITN": "e transformar em coisinhas pequenininhas ações pequenininhas netinhas para você fazer todos os dias",
+                "Display": "E transformar em coisinhas pequenininhas, ações pequenininhas, netinhas para você fazer todos os dias.",
+                "Words": [
+                    {
+                        "Word": "e",
+                        "Offset": 432000000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "transformar",
+                        "Offset": 435200000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "em",
+                        "Offset": 440000000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "coisinhas",
+                        "Offset": 440800000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "pequenininhas",
+                        "Offset": 445200000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "ações",
+                        "Offset": 453200000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "pequenininhas",
+                        "Offset": 458400000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "netinhas",
+                        "Offset": 465600000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "para",
+                        "Offset": 476000000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "você",
+                        "Offset": 477600000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "fazer",
+                        "Offset": 479600000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "todos",
+                        "Offset": 482000000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "os",
+                        "Offset": 484800000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "dias",
+                        "Offset": 486000000,
+                        "Duration": 4400000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.8578301,
+                "Lexical": "e transformar em coisinhas pequenininhas ações pequenininhas netinhas para você fazer todos os dias",
+                "ITN": "e transformar em coisinhas pequenininhas ações pequenininhas netinhas para você fazer todos os dias",
+                "MaskedITN": "e transformar em coisinhas pequenininhas ações pequenininhas netinhas para você fazer todos os dias",
+                "Display": "e transformar em coisinhas pequenininhas ações pequenininhas netinhas para você fazer todos os dias",
+                "Words": [
+                    {
+                        "Word": "e",
+                        "Offset": 432000000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "transformar",
+                        "Offset": 435200000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "em",
+                        "Offset": 440000000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "coisinhas",
+                        "Offset": 440800000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "pequenininhas",
+                        "Offset": 445200000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "ações",
+                        "Offset": 453200000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "pequenininhas",
+                        "Offset": 458400000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "netinhas",
+                        "Offset": 465600000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "para",
+                        "Offset": 476000000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "você",
+                        "Offset": 477600000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "fazer",
+                        "Offset": 479600000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "todos",
+                        "Offset": 482000000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "os",
+                        "Offset": 484800000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "dias",
+                        "Offset": 486000000,
+                        "Duration": 4400000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.8578301,
+                "Lexical": "e transformar em coisinhas pequenininhas ações pequenininhas netinhas para você fazer todos os dias",
+                "ITN": "e transformar em coisinhas pequenininhas ações pequenininhas netinhas para você fazer todos os dias",
+                "MaskedITN": "e transformar em coisinhas pequenininhas ações pequenininhas netinhas para você fazer todos os dias",
+                "Display": "e transformar em coisinhas pequenininhas ações pequenininhas netinhas para você fazer todos os dias",
+                "Words": [
+                    {
+                        "Word": "e",
+                        "Offset": 432000000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "transformar",
+                        "Offset": 435200000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "em",
+                        "Offset": 440000000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "coisinhas",
+                        "Offset": 440800000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "pequenininhas",
+                        "Offset": 445200000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "ações",
+                        "Offset": 453200000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "pequenininhas",
+                        "Offset": 458400000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "netinhas",
+                        "Offset": 465600000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "para",
+                        "Offset": 476000000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "você",
+                        "Offset": 477600000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "fazer",
+                        "Offset": 479600000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "todos",
+                        "Offset": 482000000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "os",
+                        "Offset": 484800000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "dias",
+                        "Offset": 486000000,
+                        "Duration": 4400000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.8578301,
+                "Lexical": "e transformar em coisinhas pequenininhas ações pequenininhas netinhas para você fazer todos os dias",
+                "ITN": "e transformar em coisinhas pequenininhas ações pequenininhas netinhas para você fazer todos os dias",
+                "MaskedITN": "e transformar em coisinhas pequenininhas ações pequenininhas netinhas para você fazer todos os dias",
+                "Display": "e transformar em coisinhas pequenininhas ações pequenininhas netinhas para você fazer todos os dias",
+                "Words": [
+                    {
+                        "Word": "e",
+                        "Offset": 432000000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "transformar",
+                        "Offset": 435200000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "em",
+                        "Offset": 440000000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "coisinhas",
+                        "Offset": 440800000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "pequenininhas",
+                        "Offset": 445200000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "ações",
+                        "Offset": 453200000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "pequenininhas",
+                        "Offset": 458400000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "netinhas",
+                        "Offset": 465600000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "para",
+                        "Offset": 476000000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "você",
+                        "Offset": 477600000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "fazer",
+                        "Offset": 479600000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "todos",
+                        "Offset": 482000000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "os",
+                        "Offset": 484800000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "dias",
+                        "Offset": 486000000,
+                        "Duration": 4400000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.8578301,
+                "Lexical": "e transformar em coisinhas pequenininhas ações pequenininhas netinhas para você fazer todos os dias",
+                "ITN": "e transformar em coisinhas pequenininhas ações pequenininhas netinhas para você fazer todos os dias",
+                "MaskedITN": "e transformar em coisinhas pequenininhas ações pequenininhas netinhas para você fazer todos os dias",
+                "Display": "e transformar em coisinhas pequenininhas ações pequenininhas netinhas para você fazer todos os dias",
+                "Words": [
+                    {
+                        "Word": "e",
+                        "Offset": 432000000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "transformar",
+                        "Offset": 435200000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "em",
+                        "Offset": 440000000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "coisinhas",
+                        "Offset": 440800000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "pequenininhas",
+                        "Offset": 445200000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "ações",
+                        "Offset": 453200000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "pequenininhas",
+                        "Offset": 458400000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "netinhas",
+                        "Offset": 465600000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "para",
+                        "Offset": 476000000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "você",
+                        "Offset": 477600000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "fazer",
+                        "Offset": 479600000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "todos",
+                        "Offset": 482000000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "os",
+                        "Offset": 484800000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "dias",
+                        "Offset": 486000000,
+                        "Duration": 4400000
+                    }
+                ]
+            }
+        ]
+    }
+]
