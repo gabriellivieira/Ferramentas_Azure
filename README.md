@@ -20,3 +20,8 @@ No terceiro laboratório foi realizado o teste das ferramentas Speech Studio e a
 No quarto laboratório foi criado um serviço de IA com a automação e a partir disso foi direcionado para um repositório. Assim, com os dados salvos foi possível fazer uma busca pela Search utilizando a automação, mas também é possível utilizar o serviço em uma aplicação. 
 
 * [Inteligência de Documentos](/Inteligencia_de_documentos/README.md)
+
+### OpenIA Azure
+No quinto laboratório foi verificado as ferramentas de IA generativa e como implantá-los de forma responsável. Ferramentas como o Copilot e OpenIa Azure foram abordados. 
+
+* [OpenIA Azure](/OpenIA_Azure/REDME.md)
