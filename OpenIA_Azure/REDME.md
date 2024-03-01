@@ -10,7 +10,8 @@ Para isso existem 4 métodos para implementar uma IA generativa de forma respons
 3) Mitigação: distribuir os danos em camadas para minimizar sua presença e impacto. 
 4) Operar: Implantar a solução seguindo o plano criado nas etapas anteriores e preparação operacional. 
 
---- / --
+---
+
 ## Copilot Microsoft 
 
 É um assistente de chatbot, uma ferramenta de produtividade alimentada por Ia que coordena LLMs (modelos de linguagem grande), no qual é possível interagir coma ferramenta por comandos e perguntas. A ferramenta utiliza um tipo de algoritmo de IA que usa o aprendizado profundo e uma grande fonte de dados para entender, resumir, prever e gerar conteúdos. 
