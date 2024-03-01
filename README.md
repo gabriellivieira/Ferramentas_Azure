@@ -22,6 +22,6 @@ No quarto laboratório foi criado um serviço de IA com a automação e a partir
 * [Inteligência de Documentos](/Inteligencia_de_documentos/README.md)
 
 ### OpenIA Azure
-No quinto laboratório foi verificado as ferramentas de IA generativa e como implantá-los de forma responsável. Ferramentas como o Copilot e OpenIa Azure foram abordados. 
+No quinto laboratório foi verificado as ferramentas de IA generativa e como implantá-los de forma responsável. Ferramentas como o Copilot e OpenIA Azure foram abordados. 
 
 * [OpenIA Azure](/OpenIA_Azure/REDME.md)
