@@ -15,3 +15,8 @@ No segundo laboratório prático, foi trabalhado com os serviços de reconhecime
 No terceiro laboratório foi realizado o teste das ferramentas Speech Studio e a Language Studio, para analisar o funcionando da transição de um arquivo de áudio e a avaliação de sentimentos de um comentário realizado a um produto da Amazon, respectivamente. 
 
 * [Processamento de Linguafem Natural](/Processamento_linguagem_natural/README.md)
+
+### Inteligência de Documentos
+No quarto laboratório foi criado um serviço de IA com a automação e a partir disso foi direcionado para um repositório. Assim, com os dados salvos foi possível fazer uma busca pela Search utilizando a automação, mas também é possível utilizar o serviço em uma aplicação. 
+
+* [Inteligência de Documentos](/Inteligencia_de_documentos/README.md)
